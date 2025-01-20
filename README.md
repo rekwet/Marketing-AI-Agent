@@ -1,2 +1,2 @@
 # Marketing-AI-Agent
-AI agent for marketing content creation
+Multi Agent AI System(MAS) for marketing content creation
